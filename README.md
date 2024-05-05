@@ -8,7 +8,7 @@ This GitHub repository contains the report of our project to reproduce the paper
   2. Anna Wysocka (annamw2@illinois.edu)
   3. Jake Kugel (jakugel2@illinois.edu)
 - Project Resources:
-  1. Notebook: [Link](https://colab.research.google.com/github/jakekugel/uiuc-cs598-text2mol/blob/main/text2mol-ablation-study.ipynb)
+  1. Notebook: [Link](https://colab.research.google.com/github/jakekugel/uiuc-cs598-text2mol/blob/main/text2mol-project-report.ipynb)
   2. GitHub: [Link](https://github.com/jakekugel/uiuc-cs598-text2mol)
   3. Video: TBD
 
@@ -16,7 +16,7 @@ This GitHub repository contains the report of our project to reproduce the paper
 
 The report for this project is in the form of a Jupyter notebook.  All data files required by this notebook are downloaded when the notebook runs, so there is no setup needed before running the notebook.  This notebook has been tested in the Colab environment.  It takes about 9 minutes to run the whole notebook.  To run:
 
-1. Open the notebook in Colab: [link](https://colab.research.google.com/github/jakekugel/uiuc-cs598-text2mol/blob/main/text2mol-ablation-study.ipynb).
+1. Open the notebook in Colab: [link](https://colab.research.google.com/github/jakekugel/uiuc-cs598-text2mol/blob/main/text2mol-project-report.ipynb).
 2. Runtime > Run All.
 
 ## References
