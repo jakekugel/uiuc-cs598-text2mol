@@ -18,3 +18,7 @@ The report for this project is in the form of a Jupyter notebook.  All data file
 
 1. Open the notebook in Colab: [link](https://colab.research.google.com/github/jakekugel/uiuc-cs598-text2mol/blob/main/text2mol-ablation-study.ipynb).
 2. Runtime > Run All.
+
+## References
+
+1.   Edwards, C., Zhai, C., & Ji, H. (2021). Text2Mol: Cross-modal molecule retrieval with natural language queries. Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, 595–607. https://doi.org/10.18653/v1/2021.emnlp-main.47
