@@ -10,7 +10,7 @@ This GitHub repository contains the report of our project to reproduce the paper
 - Project Resources:
   1. Notebook: [Link](https://colab.research.google.com/github/jakekugel/uiuc-cs598-text2mol/blob/main/text2mol-project-report.ipynb)
   2. GitHub: [Link](https://github.com/jakekugel/uiuc-cs598-text2mol)
-  3. Video: TBD
+  3. Video: [Link](https://mediaspace.illinois.edu/media/t/1_oruzbz7k)
 
 ## How to run the report notebook
 
